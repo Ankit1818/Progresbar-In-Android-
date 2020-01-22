@@ -1,5 +1,5 @@
 
-package com.journaldev.progressbar;
+
 
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
